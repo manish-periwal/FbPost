@@ -1,5 +1,5 @@
 # FbPost
-Facebook script to comment on the posts on your timeline.
+Python script to comment on the posts on your timeline.
 
 Simple script just to comment on a post that was posted by you on your timeline. 
 Facebook does not allow to like a post. 
